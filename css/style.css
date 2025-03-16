@@ -50,10 +50,10 @@ button {
   letter-spacing: 0.32px;
 }
 .heder-menu-link:hover {
-  background-color: #404bbf;
+  color: #404bbf;
 }
 .heder-menu-link:focus {
-  background-color: #404bbf;
+  color: #404bbf;
 }
 .header-adress {
   font-style: normal;
@@ -100,10 +100,10 @@ button {
   background: var(--IRIS, #4d5ae5);
 }
 .hero-btn:hover {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 .hero-btn:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 /*--------HERO-------*/
 /*-------FEATURES----*/
@@ -182,7 +182,7 @@ button {
   font-size: 36px;
   font-style: normal;
   font-weight: 700;
-  line-height: 1.2; /* 111.111% */
+  line-height: 1.11; /* 111.111% */
   letter-spacing: 0.72px;
   text-transform: capitalize;
 }
@@ -213,9 +213,8 @@ button {
   background-color: var(--NAVY-BLUE, #2e2f42);
 }
 .site-footer-logo {
-  font-family: "Releway", sans-serif;
+  font-family: "Raleway" sans-serif;
   color: var(--IRIS, #4d5ae5);
-  font-family: Raleway;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
@@ -225,7 +224,7 @@ button {
 }
 .site-footer-studio {
   color: var(--CLOUD, #f4f4fd);
-  font-family: "Raleway", sans-serif;
+  font-family: "Raleway" sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
