@@ -50,16 +50,17 @@ button {
   letter-spacing: 0.32px;
 }
 .heder-menu-link:hover {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 .heder-menu-link:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 .header-adress {
   font-style: normal;
 }
+.header-adress-list {
+}
 .header-adress-iten {
-  font-style: normal;
 }
 .header-adress-link {
   color: var(--SLATE, #434455);
@@ -143,12 +144,11 @@ button {
   font-size: 36px;
   font-style: normal;
   font-weight: 700;
-  line-height: 1.2; /* 111.111% */
+  line-height: 1.11; /* 111.111% */
   letter-spacing: 0.72px;
   text-transform: capitalize;
 }
 .team-list {
-  border-radius: 0px 0px 4px 4px;
   background: var(--WHITE, #fff);
 }
 .team-iten {
@@ -195,7 +195,7 @@ button {
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
-  line-height: 1.5; /* 120% */
+  line-height: 1.2; /* 120% */
   letter-spacing: 0.4px;
 }
 .portfolio-text {
