@@ -213,7 +213,7 @@ button {
   background-color: var(--NAVY-BLUE, #2e2f42);
 }
 .site-footer-logo {
-  font-family: "Raleway" sans-serif;
+  font-family: "Raleway", sans-serif;
   color: var(--IRIS, #4d5ae5);
   font-size: 18px;
   font-style: normal;
@@ -224,7 +224,7 @@ button {
 }
 .site-footer-studio {
   color: var(--CLOUD, #f4f4fd);
-  font-family: "Raleway" sans-serif;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
